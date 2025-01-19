@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "sibi-sign-language-react-native",
+    "slug": "sibi-sign-language-react-native",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.app.sibisignlanguagereactnative"
+    },
+    "splash": {
+      "image": "../src/assets/splashscreen.png.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "dd182b2b-262c-406f-938d-ea665dfde0c5"
+      }
+    }
+  },
+  "name": "sibi-sign-language-react-native"
+}
