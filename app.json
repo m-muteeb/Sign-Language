@@ -10,7 +10,7 @@
       "package": "com.app.sibisignlanguagereactnative"
     },
     "splash": {
-      "image": "../src/assets/splashscreen.png.png"
+      "image": "./src/Assets/splashscreen/splashscreen.png"
     },
     "extra": {
       "eas": {

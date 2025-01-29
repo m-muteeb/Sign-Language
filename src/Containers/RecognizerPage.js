@@ -1,6 +1,7 @@
 import React, { useEffect, useState, useRef } from 'react';
 import { Text, SafeAreaView, View, TouchableOpacity, Dimensions, Image } from 'react-native';
 import { Fonts } from '../Constants/Fonts';
+
 import AppLoading from 'expo-app-loading';
 import { useFonts } from '@use-expo/font';
 import { Camera } from 'expo-camera';
